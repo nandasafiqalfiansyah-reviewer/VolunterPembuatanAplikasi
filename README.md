@@ -7,4 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* * Nanda Safiq Alfiansyah, [Linkedin](https://www.linkedin.com/in/nanda-safiq-alfiansyah).
+* Nanda Safiq Alfiansyah, [Linkedin](https://www.linkedin.com/in/nanda-safiq-alfiansyah).
